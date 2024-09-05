@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Tina Zhong"
-  text: "Tina's Portfolio"
+  text: "Software Design Portfolio"
   tagline: "6.1040"
   actions:
     - theme: brand
