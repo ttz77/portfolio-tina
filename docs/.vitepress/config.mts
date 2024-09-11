@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Tina Zhong's Awesome Projects",
+  title: "Tina Zhong's Projects",
   description: "6.1040 Fall 2024",
   base: "/portfolio-tina/",
   themeConfig: {
