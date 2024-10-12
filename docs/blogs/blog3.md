@@ -1,5 +1,5 @@
 ---
-title: Blog3
+title: Blog 3
 layout: doc
 ---
 
